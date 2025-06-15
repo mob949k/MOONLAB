@@ -1,6 +1,8 @@
 # 📜 Términos y Condiciones de Uso
 
-Bienvenido a **MoonLAB**. Al acceder y utilizar este sitio web, usted acepta cumplir y estar sujeto a los siguientes términos y condiciones. Por favor, léalos cuidadosamente antes de continuar su navegación o uso de nuestros servicios.
+Al acceder y usar nuestro sitio web, " MoonLAB ", aceptas cumplir estrictamente con los siguientes términos y condiciones. Si no estás de acuerdo con alguno de estos términos, no podrás usar nuestro sitio. El acceso y uso del sitio implica la aceptación inequívoca de estos términos y condiciones.
+
+.
 
 ---
 
