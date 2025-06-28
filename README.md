@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/mob949k/MOONLAB/main/moonlab.png" alt="MOONLAB Logo" width="100"/>
+</p>
+
 # Términos y Condiciones - MOONLAB  
 **Última actualización:** 15 de junio de 2025
 
@@ -34,6 +38,3 @@ Estos términos y condiciones se regirán e interpretarán de acuerdo con las le
 ## 10. Contacto
 Para consultas o notificaciones relacionadas con estos términos, puede contactarnos en:  
 **Correo electrónico:** moonl4b@outlook.com
-
-## 11. Logo de MOONLAB
-![MOONLAB Logo](https://raw.githubusercontent.com/mob949k/MOONLAB/main/moonlab.png)
